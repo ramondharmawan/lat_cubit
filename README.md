@@ -1,6 +1,6 @@
 # countercubit
 
-A new Flutter project.
+A new Flutter project for Cubit.
 
 ## Getting Started
 
